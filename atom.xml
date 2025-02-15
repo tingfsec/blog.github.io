@@ -6,7 +6,7 @@
   <link href="http://www.tinfsec.xyz/atom.xml" rel="self"/>
   
   <link href="http://www.tinfsec.xyz/"/>
-  <updated>2025-02-15T11:11:57.066Z</updated>
+  <updated>2025-02-15T14:48:30.438Z</updated>
   <id>http://www.tinfsec.xyz/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.tinfsec.xyz/2025/01/02/hello-world/"/>
-    <id>http://www.tinfsec.xyz/2025/01/02/hello-world/</id>
-    <published>2025-01-02T10:53:34.000Z</published>
-    <updated>2025-02-15T11:11:57.066Z</updated>
+    <title></title>
+    <link href="http://www.tinfsec.xyz/2025/02/15/about/"/>
+    <id>http://www.tinfsec.xyz/2025/02/15/about/</id>
+    <published>2025-02-15T14:45:27.000Z</published>
+    <updated>2025-02-15T14:48:30.438Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">jacle</span><br></pre></td></tr></table></figure><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>作者介绍：听风</strong></p><p><strong>听风</strong>，一名网络安全爱好者，致力于深入研究和破解各种网络安全挑战。在学习与工作中，深谙网络攻防技术，掌握渗透测试、漏洞分析、信息安全管理等多方面技能，常年活跃于各大网络安全社区，并与同行们分享自己的技术心得与实践经验。</p><p>作为一名热衷于网络安全的技术爱好者，听风不仅在多个CTF比赛中取得优异成绩，还曾在知名平台上成功挖掘并提交多个关键性安全漏洞，广受好评。其研究方向涵盖了从加密算法到漏洞挖掘、从渗透测试到应急响应的多个领域，尤其在网络流量分析和信息安全防御技术方面有着深厚的造诣。</p><p>听风的作品与技术文章深入浅出，旨在通过简明易懂的方式帮助更多的网络安全从业者与爱好者掌握前沿技术，提升实战能力。对他来说，网络安全不仅仅是职业，更是使命，愿与更多志同道合的伙伴一同守护网络世界的安全与稳定。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;作者介绍：听风&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;听风&lt;/strong&gt;，一名网络安全爱好者，致力于深入研究和破解各种网络安全挑战。在学习与工作中，深谙网络攻防技术，掌握渗透测试、漏洞分析、信息安全管理等多方面技能，常年活跃于各大网络安全社区，</summary>
       
     
     
